@@ -6,7 +6,7 @@ public class OccuranceEle {
 	public static void main (String [] args) {
 		
 		
-		String p = "hii pratik how are you hii";
+	//	String p = "hii pratik how are you hii";
 	//	String [] p1 = p.split(" ");          
 		
 		 String [] p1 = {"p", "pra", "p", "jagtap", "pra"};
